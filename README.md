@@ -1,4 +1,4 @@
-# redirect
+# Redirect
 
 Simple Cloudflare Worker redirect that keeps embeds/previews working by copying metadata from the original link.
 
