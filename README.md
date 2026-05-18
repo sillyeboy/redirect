@@ -28,3 +28,8 @@ Deploy it to Cloudflare Workers and connect your domain/route.
 - Slack
 - Facebook
 - WhatsApp
+
+## Support
+
+If you need help setting it up or have any issues, contact me on Discord:
+@67jk
